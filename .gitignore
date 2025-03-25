@@ -1,0 +1,5 @@
+*.bin
+*.lock
+cache.properties
+BuildScript_class
+BuildScript_$_run_closure*
