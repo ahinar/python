@@ -8,8 +8,7 @@ class Persona:
     def mostrar_persona(self):
         print(f'''Persona
               Nombre: {self.nombre}
-              Apellido: {self.apellido}\n
-''')
+              Apellido: {self.apellido}''')
 
 #creacion de objeto
 if __name__ == "__main__":
